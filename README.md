@@ -19,7 +19,7 @@ To implement a logistic regression model to classify food items for diabetic pat
 8.Confusion Matrix: Compute and visualize confusion matrix.
 
 ## Program:
-```
+```python
 /*
 Program to implement Logistic Regression for classifying food choices based on nutritional information.
 Developed by: SANJUSHRI A
